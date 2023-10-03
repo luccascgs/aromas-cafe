@@ -33,9 +33,9 @@ export default function Footer() {
         <div>
           <h5>CONTATO</h5>
           <ul className="nav flex-column">
-            <li className="nav-item mb-2"><a className="nav-link p-0 text-muted" href="https://www.instagram.com/" target="_blank"><i className="bi bi-instagram"></i> @aromasdecafe</a></li>
-            <li className="nav-item mb-2"><a className="nav-link p-0 text-muted" href="https://twitter.com/" target="_blank"><i className="bi bi-twitter"></i> @aromasdecafe</a></li>
-            <li className="nav-item mb-2"><a className="nav-link p-0 text-muted" href="https://br.linkedin.com/" target="_blank"><i className="bi bi-linkedin"></i> @aromasdecafe</a></li>
+            <li className="nav-item mb-2"><a className="nav-link p-0 text-muted" href="https://www.instagram.com/" target="_blank" rel="noreferrer"><i className="bi bi-instagram"></i> @aromasdecafe</a></li>
+            <li className="nav-item mb-2"><a className="nav-link p-0 text-muted" href="https://twitter.com/" target="_blank" rel="noreferrer"><i className="bi bi-twitter"></i> @aromasdecafe</a></li>
+            <li className="nav-item mb-2"><a className="nav-link p-0 text-muted" href="https://br.linkedin.com/" target="_blank" rel="noreferrer"><i className="bi bi-linkedin"></i> @aromasdecafe</a></li>
           </ul>
         </div>
       </footer>
