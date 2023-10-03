@@ -1,9 +1,9 @@
 
 
-export default function ContatoScreen(){
+export default function ExpressCoffeeScreen(){
     return(
         <div>
-            <h1>Eu sou o Contato!</h1>
+            <h1>Eu sou o Café Expresso!</h1>
         </div>
     )
 }
